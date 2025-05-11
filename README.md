@@ -19,7 +19,7 @@
 
 在视频上：
 
-[https://github.com/user-attachments/assets/9859d7ce-4365-44c2-838a-aadd96c1ef3a](https://private-user-images.githubusercontent.com/202926646/442516315-c3f6abf7-5d92-4840-90cc-ab48a9f6d0c1.mp4
+https://github.com/user-attachments/assets/bc3914cf-0df0-4a05-ab1b-14920cd12ea3
 
 https://github.com/user-attachments/assets/f2d53ccb-fd24-43b6-b3e2-0f1afb63278a
 
