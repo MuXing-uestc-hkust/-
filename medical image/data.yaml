@@ -1,0 +1,20 @@
+
+path: /hpc2hdd/home/xingmu/MedSAM/data/dataset  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Liver
+  1: Right kidney
+  2: Spleen
+  3: Pancreas
+  4: Aprta
+  5: IVC
+  6: RAG
+  7: LAG
+  8: Gallbladder
+  9: Esophagus
+  10: Stomach
+  11: DuoDenum
+  12: Left kidney
