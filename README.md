@@ -2,7 +2,9 @@
 自然图像上：
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/8c0f50a9-45ee-4eda-a092-07beb21742ed" />
+
 ![image](https://github.com/user-attachments/assets/6b0d30ac-b561-487f-8d9e-5a01a83a5fae)
+
 在医学图像上：
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/d884d4f4-1ac5-42e7-b6b1-8b149da6a88f" />
@@ -17,10 +19,16 @@
 
 在视频上：
 
-https://github.com/user-attachments/assets/a2c784bb-223d-471e-80f0-b14d874f846b
+https://github.com/user-attachments/assets/9859d7ce-4365-44c2-838a-aadd96c1ef3a
 
 
-https://github.com/user-attachments/assets/34f5879c-fdc6-4cd8-80b4-674296ee8152
+
+
+https://github.com/user-attachments/assets/78802919-0297-40b3-90d5-ba1c87eef79a
+
+
+
+
 
 
 
